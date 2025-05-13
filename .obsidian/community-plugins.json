@@ -3,7 +3,6 @@
   "tldraw",
   "obsidian-kanban",
   "obsidian-day-planner",
-  "google-calendar",
   "dataview",
   "obsidian-kindle-plugin",
   "obsidian-hover-editor",
@@ -13,5 +12,6 @@
   "templater-obsidian",
   "obsidian42-text-transporter",
   "typing-assistant",
-  "obsidian-git"
+  "obsidian-git",
+  "google-calendar"
 ]

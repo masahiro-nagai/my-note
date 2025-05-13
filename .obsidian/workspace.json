@@ -23,11 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "01_inbox/un-t社.md",
+=======
+                "file": "README.md",
+>>>>>>> 9b7c5ce (Initial commit)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "un-t社"
             }
           },
@@ -47,6 +52,13 @@
           }
         ],
         "currentTab": 2
+=======
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+>>>>>>> 9b7c5ce (Initial commit)
       }
     ],
     "direction": "vertical"
@@ -255,6 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "b73a5afc335eabb7",
   "lastOpenFiles": [
     "01_inbox/戸張さん_クアッドワークス面談.md",
@@ -273,25 +286,59 @@
     "100_kindle/幸大-まったく新しいアカデミック・ライティングの教科書.md",
     "02_diary/まったく新しいアカデミック・ライティングの教科書.md",
     "02_diary/2025-05-09.md",
+=======
+  "active": "acb7e78413866b8f",
+  "lastOpenFiles": [
+    "01_inbox/主張の作り方.md",
+    "01_inbox/森 孝志_un-t社.md",
+    "02_diary/2025-05-13.md",
+    "02_diary/2025-05-20.md",
+    "04_Clippings/Obsidian Web ClipperとGemini連携による効率的な情報収集設定.md",
+    "03_idea/子供の環境を変える.md",
+    "03_idea",
+    "02_diary/デイリー-テンプレート.md",
+    "02_diary/2025-05-12.md",
+    "02_diary/2025-05-10.md",
+    "02_diary/2025-05-09.md",
+    "02_diary/2025-05-08.md",
+    "02_diary/2025-05-07.md",
+    "02_diary",
+    "01_inbox/戸張さん面談.md",
+    "01_inbox/戸張さん_クアッドワークス面談.md",
+    "01_inbox/佐藤 義嗣_un-t.md",
+    "01_inbox/un-t社.md",
+    "01_inbox/Y.Aさん_mtg.md",
+    "01_inbox",
+    "README.md",
+    "100_kindle/幸大-まったく新しいアカデミック・ライティングの教科書.md",
+    "02_diary/まったく新しいアカデミック・ライティングの教科書.md",
+>>>>>>> 9b7c5ce (Initial commit)
     "100_kindle/まったく新しいアカデミック・ライティングの教科書.md",
     "100_kindle/音部大輔-君は戦略を立てることができるか 視点と考え方を実感する４時間.md",
     "100_kindle/鋭介-会話の9割は「言いかえ力」でうまくいく.md",
     "100_kindle/名和高司-コンサルを超える 問題解決と価値創造の全技法.md",
     "100_kindle/和成-仮説思考―ＢＣＧ流　問題発見・解決の発想法 内田和成の思考.md",
     "無題のカンバン.md",
+<<<<<<< HEAD
     "90_drawing/Tldraw 2025-05-02 8.43午後.md",
     "02_diary/2025-05-08.md",
     "91_templetes/CT_問い合わせスクリプト.md",
     "91_templetes/FC_パートナー応募テンプレート.md",
+=======
+>>>>>>> 9b7c5ce (Initial commit)
     "90_drawing/無題のファイル.canvas",
     "100_kindle",
     "04_Clippings",
     "04_webclipp",
     "91_templetes",
     "99_archive",
+<<<<<<< HEAD
     "90_drawing",
     "03_idea",
     "02_diary",
     "01_inbox"
+=======
+    "90_drawing"
+>>>>>>> 9b7c5ce (Initial commit)
   ]
 }
